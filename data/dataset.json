@@ -1,0 +1,49 @@
+[
+  {
+    "name": "CGV Vincom Bắc Từ Liêm",
+    "address": "Vincom Plaza Bắc Từ Liêm, số 234 Phạm Văn Đồng, phường Cổ Nhuế, quận Bắc Từ Liêm",
+    "province": "Hà Nội",
+    "tableSeats": [
+      [null, null, 0, 0, null, null],
+      [null, 0, 0, 0, 0, null],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ]
+  },
+  {
+    "name": "CGV Hồ Gươm Plaza",
+    "address": "Tầng 3 | Hồ Gươm Plaza, số 110 đường Trần Phú, phường Mỗ Lao, quận Hà Đông",
+    "province": "Hà Nội",
+    "tableSeats": [
+      [null, 0, 0, 0, 0, null],
+      [null, 0, 0, 0, 0, null],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ]
+  },
+  {
+    "name": "Lotte Hà Đông",
+    "address": "Tầng 4, Mê Linh Plaza Hà Đông, Đường Tô Hiệu, P.Hà Cầu, Q.Hà Đông",
+    "province": "Hà Nội",
+    "tableSeats": [
+      [null, 0, 0, 0, null],
+      [null, 0, 0, 0, null],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0]
+    ]
+  },
+  {
+    "name": "Galaxy Mipec Long Biên",
+    "address": "Chung Cư Mipec Riverside, Long Biên 2, Ngọc Lâm, Long Biên",
+    "province": "Hà Nội",
+    "tableSeats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ]
+  }
+]
